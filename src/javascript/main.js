@@ -23,7 +23,7 @@ var start = function () {
     moleInterval();
   }
 };
-
+ 
 var setScore = function () {
 
 };
