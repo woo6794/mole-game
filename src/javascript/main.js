@@ -32,7 +32,7 @@ var setHighScore = function () {
   
 };
 
-var setTime = function (time) {
+var setTime = function (time) { 
   timeEl.value = '남은 시간 : ' + time;
 }
 
