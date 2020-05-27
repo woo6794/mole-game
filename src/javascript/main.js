@@ -29,7 +29,7 @@ var setScore = function () {
 };
 
 var setHighScore = function () {
-  
+  // hdlksfjskadlfj ksladfj lksadjflk asdjfl sadjlkf sd
 };
 
 var setTime = function (time) { 
