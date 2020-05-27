@@ -25,7 +25,7 @@ var start = function () {
 };
  
 var setScore = function () {
-
+  // adasd asdas dsa dasdasd asas d
 };
 
 var setHighScore = function () {
