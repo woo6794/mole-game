@@ -11,7 +11,11 @@ var isStarted;
 var catched;
 var debounceCheck;
 var gameTime = 1000 * 60;
-// test
+// test fsdafsdkjaf lksdajflk s
+// asdkjfaslkdfjklsa jfklsajdflksad
+// asdkjfaslkdfjklsa jfklsajdflksad
+// asdkjfaslkdfjklsa jfklsajdflksad
+// asdkjfaslkdfjklsa jfklsajdflksad
 var addEvents = function () {
   startBtnEl.addEventListener("click", start);
   holes.forEach(function (hole, i) {
